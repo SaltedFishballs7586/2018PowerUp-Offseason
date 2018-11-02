@@ -1,4 +1,4 @@
-# 2018PowerUp-Offseason
+2018PowerUp-Offseason
 =========================
 
 Welcome! We're glad you've decided to help build SaltedFishballs' sweet robots! In order to keep the robot running well, we have a few light standards for editing code in the repository.
